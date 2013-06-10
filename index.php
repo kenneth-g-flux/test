@@ -7,6 +7,6 @@
         <title></title>
     </head>
     <body>
-        Index page for the master branch of the test-repository after one change.
+        Initial index page for the beta branch of the test-repository.
     </body>
 </html>
