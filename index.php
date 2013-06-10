@@ -7,6 +7,6 @@
         <title></title>
     </head>
     <body>
-        Initial index page for the beta branch of the test-repository.
+        Initial index page for the feature1 branch of the test-repository.
     </body>
 </html>
